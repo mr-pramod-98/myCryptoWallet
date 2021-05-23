@@ -1,0 +1,12 @@
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #282c34;
+}
+
+.card {
+    width: 100vh;
+    max-width: 400px;
+}
